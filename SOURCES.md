@@ -82,6 +82,84 @@ This document details the provenance, resolution, and licensing for all wallpape
 
 ---
 
+### 9. `09-hacker-cityscape-dark.jpg` (Cyberpunk Cityscape)
+- **Role:** Atmospheric hacker/cybersecurity wallpaper.
+- **Description:** Ultra-dark cyberpunk cityscape with near-zero ambient illumination, cold digital infrastructure, and ominous negative space. No identifiable faces or proprietary characters.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD).
+- **Source:** Wallhaven (ID: `6q9qe7`) — `https://wallhaven.cc/w/6q9qe7`.
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 10. `10-fsociety-emblem-4k.jpg` (Fsociety Emblem)
+- **Role:** Fsociety iconography wallpaper.
+- **Description:** Dark, high-contrast fsociety mask emblem against deep black/graphite environment. Source was super-resolution (6000 × 3276) and center-cropped to 3840 × 2160 to preserve maximum detail.
+- **Resolution:** 3840 × 2160 (center-cropped from 6000 × 3276 source).
+- **Source:** Wallhaven (ID: `kxxx9d`) — `https://wallhaven.cc/w/kxxx9d`.
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 11. `11-elliot-neon-shadow.jpg` (Elliot: Neon Shadow)
+- **Role:** Character wallpaper — darkened cinematic treatment.
+- **Description:** Original Wallhaven 3840 × 2160 portrayal of Elliot in high-contrast neon lighting, subjected to a 55% dark overlay composite to bring luminance in line with the theme's near-black palette (#080A08) without losing character silhouette depth.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD, darkened).
+- **Source:** Wallhaven (ID: `p2rlre`) — `https://wallhaven.cc/w/p2rlre`.
+- **Processing:** Dark overlay composite applied (ImageMagick colorize 55%).
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 12. `12-mr-robot-code-rain.jpg` (Code Rain)
+- **Role:** Digital rain / matrix-adjacent hacker wallpaper.
+- **Description:** Mr. Robot themed wallpaper with cascading digital elements. Source upscaled from 2560 × 1440 using Lanczos algorithm; 40% dark overlay applied to achieve theme-consistent dark luminance floor.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD, upscaled + darkened).
+- **Source:** Wallhaven (ID: `p82w83`) — `https://wallhaven.cc/w/p82w83`.
+- **Processing:** Lanczos upscale + 40% dark overlay composite (ImageMagick).
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 13. `13-fsociety-neon-dark.jpg` (Fsociety Neon: Dark)
+- **Role:** Fsociety branding with desaturated neon treatment.
+- **Description:** Native 3840 × 2160 fsociety neon wallpaper with saturation reduced to 70% (ImageMagick modulate) to align with the theme's muted, cold-green palette without oversaturation.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD, desaturated).
+- **Source:** Wallhaven (ID: `wy663q`) — `https://wallhaven.cc/w/wy663q`.
+- **Processing:** Saturation reduced to 70% (ImageMagick modulate).
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 14. `14-elliot-terminal-glow.jpg` (Elliot: Terminal Glow)
+- **Role:** Character + terminal atmospheric wallpaper.
+- **Description:** Elliot Alderson in front of terminal displays, upscaled from 2560 × 1440 via Lanczos and desaturated to 75% to align with the theme's subdued phosphor-green palette.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD, upscaled + desaturated).
+- **Source:** Wallhaven (ID: `q63w75`) — `https://wallhaven.cc/w/q63w75`.
+- **Processing:** Lanczos upscale + saturation reduced to 75% (ImageMagick modulate).
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 15. `15-mr-robot-isolation.jpg` (Isolation)
+- **Role:** Psychological isolation / lone-figure wallpaper.
+- **Description:** Mr. Robot series themed isolation composition with dark backgrounds, processed from 2560 × 1440 using Lanczos algorithm to achieve 4K output.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD, upscaled).
+- **Source:** Wallhaven (ID: `3k2qxd`) — `https://wallhaven.cc/w/3k2qxd`.
+- **Processing:** Lanczos upscale to 3840 × 2160 (ImageMagick).
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
+### 16. `16-dark-ops-terminal.jpg` (Dark Ops Terminal)
+- **Role:** Abstract terminal / dark operations wallpaper.
+- **Description:** Dark abstract terminal environment evocative of clandestine operations and underground infrastructure. Upscaled from 2560 × 1440 using Lanczos algorithm.
+- **Resolution:** 3840 × 2160 (16:9 4K UHD, upscaled).
+- **Source:** Wallhaven (ID: `eoedxk`) — `https://wallhaven.cc/w/eoedxk`.
+- **Processing:** Lanczos upscale to 3840 × 2160 (ImageMagick).
+- **License / Terms:** Wallhaven personal/wallpaper use. Non-commercial personal desktop theming.
+
+---
+
 ## Theme UI Branding Assets
 
 - **`unlock.png`:**

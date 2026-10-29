@@ -127,43 +127,6 @@ If you wish to remove the user theme link:
 rm -rf ~/.config/omarchy/themes/mr-robot
 ```
 
----
-
-## 8. Publishing to GitHub & Omarchy Themes Directory
-
-### Step 1: Push to GitHub
-
-1. Create a new public repository on GitHub named:
-   ```
-   omarchy-mr-robot-theme
-   ```
-2. Link your local repository and push:
-   ```bash
-   cd ~/themes/mrrobot
-   git remote add origin https://github.com/<your-username>/omarchy-mr-robot-theme.git
-   git push -u origin main
-   ```
-
-### Step 2: Submit to Omarchy Themes Directory
-
-To list your theme on the official Omarchy community catalog ([omarchythemes.dev](https://omarchythemes.dev) & [omarchy.org/themes](https://omarchy.org/themes/)):
-
-1. Open the [Omarchy Theme Registry](https://github.com/omacom/omarchy-theme-registry) on GitHub.
-2. Click **New Issue** and select the theme submission form.
-3. Paste your repository URL:
-   ```
-   https://github.com/<your-username>/omarchy-mr-robot-theme
-   ```
-4. **Automated Validation:**
-   - The registry validation bot automatically verifies your theme structure (`colors.toml`, `backgrounds/`, and `preview.png`).
-   - If everything passes, the bot opens a Pull Request automatically for maintainers to merge.
-   - If changes are needed, commit the fixes to your repository and comment `/recheck` on the issue.
-5. **Continuous Updates:**
-   - Once merged, the catalog updates automatically every few hours.
-   - Future commits pushed to your `main` branch are automatically synced without needing new pull requests.
-
----
-
 ## License
 
 - Configuration, code, and original graphics: [MIT License](file:///home/coder/themes/mrrobot/LICENSE).
