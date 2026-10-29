@@ -1,0 +1,98 @@
+# ------------------------------------------------------------------------------
+# MR. ROBOT — FSOCIETY CYBERSECURITY WORKSTATION
+# btop monitoring dashboard theme
+# ------------------------------------------------------------------------------
+
+# Main background, empty for terminal default, or hex for solid
+theme[main_bg]="#080a08"
+
+# Main text color
+theme[main_fg]="#d5d9d2"
+
+# Title color for boxes
+theme[title]="#d5d9d2"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#83b566"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#243326"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#eef2ea"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#62695f"
+
+# Color of text appearing on top of graphs (uptime, network scaling)
+theme[graph_text]="#b0b5ac"
+
+# Background color of the percentage meters
+theme[meter_bg]="#171b17"
+
+# Misc colors for processes box (mini cpu graphs, status text)
+theme[proc_misc]="#899087"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#83b566"
+theme[mem_box]="#78a7a0"
+theme[net_box]="#8298b5"
+theme[proc_box]="#83b566"
+
+# Box divider line and small boxes line color
+theme[div_line]="#232923"
+
+# Temperature graph color (Green -> Yellow -> Red)
+theme[temp_start]="#83b566"
+theme[temp_mid]="#c9a96b"
+theme[temp_end]="#b94a4a"
+
+# CPU graph colors (Dark Green -> Muted Green -> Bright Green)
+theme[cpu_start]="#355b36"
+theme[cpu_mid]="#83b566"
+theme[cpu_end]="#a6d486"
+
+# Mem/Disk free meter
+theme[free_start]="#83b566"
+theme[free_mid]="#78a7a0"
+theme[free_end]="#8298b5"
+
+# Mem/Disk cached meter
+theme[cached_start]="#355b36"
+theme[cached_mid]="#78a7a0"
+theme[cached_end]="#8298b5"
+
+# Mem/Disk available meter
+theme[available_start]="#83b566"
+theme[available_mid]="#c9a96b"
+theme[available_end]="#b94a4a"
+
+# Mem/Disk used meter (Green -> Yellow -> Red)
+theme[used_start]="#83b566"
+theme[used_mid]="#c9a96b"
+theme[used_end]="#b94a4a"
+
+# Download graph colors (Dark Cyan -> Cyan -> Bright Cyan)
+theme[download_start]="#416b66"
+theme[download_mid]="#78a7a0"
+theme[download_end]="#95c4bc"
+
+# Upload graph colors (Dark Green -> Green -> Bright Green)
+theme[upload_start]="#355b36"
+theme[upload_mid]="#83b566"
+theme[upload_end]="#a6d486"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#78a7a0"
+theme[process_mid]="#83b566"
+theme[process_end]="#b94a4a"
+
+# Graph gradient colors (spectrum shades from background to foreground)
+theme[gradient_color_0]="#080a08"
+theme[gradient_color_1]="#171b17"
+theme[gradient_color_2]="#243326"
+theme[gradient_color_3]="#355b36"
+theme[gradient_color_4]="#62695f"
+theme[gradient_color_5]="#899087"
+theme[gradient_color_6]="#83b566"
+theme[gradient_color_7]="#eef2ea"

@@ -1,0 +1,53 @@
+# ==============================================================================
+# MR. ROBOT — FSOCIETY WORKSTATION THEME
+# Architecture: Omarchy Linux 4.x / Hyprland / Quickshell
+# Palette Schema: Omarchy Native colors.toml specification
+# ==============================================================================
+
+mode = "dark"
+
+# Primary Brand & Accent
+accent = "#83b566"
+cursor = "#a6d486"
+selection = "#243326"
+selection_background = "#243326"
+selection_foreground = "#eef2ea"
+muted = "#62695f"
+
+# Surface & Background Hierarchy
+# Cold charcoal, graphite, near-black isolation surfaces
+background = "#080a08"
+dark_background = "#050605"
+darker_background = "#030403"
+lighter_background = "#171b17"
+
+# Typography Hierarchy
+# High contrast, WCAG AAA compliant primary text and desaturated secondary text
+foreground = "#d5d9d2"
+dark_foreground = "#899087"
+light_foreground = "#b0b5ac"
+bright_foreground = "#eef2ea"
+
+# Hyprland Window Borders
+hyprland_active_border = "rgba(83b566ee) rgba(355b36ee) 45deg"
+hyprland_inactive_border = "rgba(171b17aa)"
+
+# Semantic 16-Color Palette (Normal ANSI 0-7)
+red = "#b94a4a"
+green = "#83b566"
+yellow = "#c9a96b"
+blue = "#8298b5"
+magenta = "#a18aab"
+purple = "#a18aab"
+cyan = "#78a7a0"
+orange = "#c98a58"
+brown = "#5a3d31"
+
+# Semantic 16-Color Palette (Bright ANSI 8-15)
+bright_red = "#e06b66"
+bright_green = "#a6d486"
+bright_yellow = "#dec085"
+bright_blue = "#9cb4d4"
+bright_magenta = "#bca8c7"
+bright_purple = "#bca8c7"
+bright_cyan = "#95c4bc"
