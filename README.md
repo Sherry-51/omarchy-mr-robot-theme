@@ -54,18 +54,35 @@ An authentic, carefully engineered cybersecurity workstation theme inspired by t
 
 ## 4. Wallpapers Collection
 
-The theme includes 8 curated high-resolution wallpapers in `backgrounds/`:
+The theme ships **16 curated high-resolution wallpapers** in `backgrounds/`. All new additions (09–16) are 3840 × 2160 4K UHD, darkened or desaturated as needed to match the theme palette.
 
-1. `01-mr-robot-cinematic.png` (4K UHD) — Primary wallpaper with dark silhouette and negative space.
-2. `02-fsociety-minimal.png` (4K UHD) — Near-black surface with subtle fsociety mask contour.
-3. `03-elliot-alderson.jpg` (4K UHD) — Elliot in his iconic hoodie in low-key lighting.
-4. `04-crt-terminal-phosphor.png` (4K UHD) — Original CRT monitor phosphor aesthetic.
-5. `05-dark-apartment-isolation.jpg` (1080p FHD) — The dimly lit apartment workspace.
-6. `06-abstract-dark-cyber.png` (4K UHD) — Abstract dark cybersecurity texture.
-7. `07-surveillance-cold.jpg` (1080p FHD) — Cold surveillance color grading.
-8. `08-hello-friend.jpg` (1440p QHD) — Iconic "hello friend" opening title sequence.
+### Original Set (01–08)
 
-See [`SOURCES.md`](file:///home/coder/themes/mrrobot/SOURCES.md) for full licensing, sources, and attribution.
+| # | File | Resolution | Description |
+|---|---|---|---|
+| 01 | `01-mr-robot-cinematic.png` | 4K UHD | Primary wallpaper — dark silhouette with maximum negative space |
+| 02 | `02-fsociety-minimal.png` | 4K UHD | Near-black surface with subtle fsociety mask contour |
+| 03 | `03-elliot-alderson.jpg` | 4K UHD | Elliot in his iconic hoodie in low-key cinematic lighting |
+| 04 | `04-crt-terminal-phosphor.png` | 4K UHD | Original CRT monitor phosphor terminal aesthetic |
+| 05 | `05-dark-apartment-isolation.jpg` | 1080p FHD | Elliot's dimly lit Chinatown apartment workspace |
+| 06 | `06-abstract-dark-cyber.png` | 4K UHD | Abstract dark cybersecurity texture |
+| 07 | `07-surveillance-cold.jpg` | 1080p FHD | Cold desaturated surveillance color grading |
+| 08 | `08-hello-friend.jpg` | 1440p QHD | Iconic "hello friend" opening title sequence |
+
+### New Additions (09–16)
+
+| # | File | Resolution | Description |
+|---|---|---|---|
+| 09 | `09-hacker-cityscape-dark.jpg` | 4K UHD | Ultra-dark cyberpunk cityscape — near-zero ambient light |
+| 10 | `10-fsociety-emblem-4k.jpg` | 4K UHD | High-detail fsociety mask emblem, center-cropped from 6000 × 3276 source |
+| 11 | `11-elliot-neon-shadow.jpg` | 4K UHD | Elliot in neon lighting — 55% dark overlay applied for palette consistency |
+| 12 | `12-mr-robot-code-rain.jpg` | 4K UHD | Digital code rain composition — darkened 40% to match theme floor |
+| 13 | `13-fsociety-neon-dark.jpg` | 4K UHD | Fsociety neon branding — saturation reduced to 70% for muted palette |
+| 14 | `14-elliot-terminal-glow.jpg` | 4K UHD | Elliot at terminal displays — Lanczos upscale, 75% desaturation |
+| 15 | `15-mr-robot-isolation.jpg` | 4K UHD | Psychological isolation composition — Lanczos upscale from 2560 × 1440 |
+| 16 | `16-dark-ops-terminal.jpg` | 4K UHD | Abstract dark ops terminal environment — Lanczos upscale |
+
+See [`SOURCES.md`](SOURCES.md) for full Wallhaven IDs, licensing, and processing notes for all 16 wallpapers.
 
 ---
 
